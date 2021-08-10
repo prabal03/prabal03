@@ -10,8 +10,9 @@
  <img src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" width="70"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919589685800) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
  [<img align="left" alt="Prabal Agrawal | LinkedIn" width="28px" src="https://img.icons8.com/metro/452/linkedin.png" />][linkedin]
- [<img align="left" alt="Prabal Agrawal | Instagram" width="28px" src="https://user-images.githubusercontent.com/6636473/31627355-e10142ba-b261-11e7-851a-6c76da975717.png" />][Medium]
+ [<img align="left" alt="Prabal Agrawal | Medium" width="28px" src="https://user-images.githubusercontent.com/6636473/31627355-e10142ba-b261-11e7-851a-6c76da975717.png" />][Medium]
  [<img align="left" alt="Prabal Agrawal | Instagram" width="28px" src="https://user-images.githubusercontent.com/829963/27837919-95368730-60e7-11e7-8071-0ce79f35579b.png" />][Instagram]
+ [<img align="left" alt="Prabal Agrawal | Gmail" width="28px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
  <br />
 
  ### Tools and Technologies:
@@ -99,6 +100,7 @@ e.g firewall etc](https://www.linkedin.com/posts/prabal-agrawal-4a90111a1_vimald
 <a href="https://github.com/prabal03"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 [Medium]: https://medium.com/@prabalagrawal3
+[Gmail]: mailto:prabalagrawal3@gmail.com
 [Instagram]: https://www.instagram.com/iam_khushagrawal/
 [linkedin]: https://www.linkedin.com/in/prabal-agrawal-4a90111a1/
 [aws]: https://aws.amazon.com/

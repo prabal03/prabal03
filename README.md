@@ -1,3 +1,6 @@
+<div align = "center">
+ <img width="50%" height="50%" src="code.gif" alt="">
+</div>
 # Hi there, I'm Prabal <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
  ## I'm a Student, EC Engineer, and Gremlin Chaos Engineering Practitioner Certified!!

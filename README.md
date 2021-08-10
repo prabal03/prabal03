@@ -1,5 +1,5 @@
 <div align = "center">
- <img width="50%" height="50%" src="code.gif" alt="">
+ <img width="50%" height="50%" src="https://i.pinimg.com/originals/5b/e8/12/5be8123da71f3c8b123fb645bc24c7bd.gif" alt="">
 </div>
 # Hi there, I'm Prabal <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 

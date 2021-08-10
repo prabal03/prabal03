@@ -1,7 +1,8 @@
+# Hi there, I'm Prabal <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
+
 <div align = "center">
  <img width="30%" height="30%" src="https://i.pinimg.com/originals/5b/e8/12/5be8123da71f3c8b123fb645bc24c7bd.gif" alt="">
 </div>
-# Hi there, I'm Prabal <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100">
 
  ## I'm a Student, EC Engineer, and Gremlin Chaos Engineering Practitioner Certified!!
 
@@ -17,7 +18,7 @@
  [<img align="left" alt="Prabal Agrawal | LinkedIn" width="28px" src="https://img.icons8.com/metro/452/linkedin.png" />][linkedin]
  [<img align="left" alt="Prabal Agrawal | Medium" width="28px" src="https://user-images.githubusercontent.com/6636473/31627355-e10142ba-b261-11e7-851a-6c76da975717.png" />][Medium]
  [<img align="left" alt="Prabal Agrawal | Instagram" width="28px" src="https://user-images.githubusercontent.com/829963/27837919-95368730-60e7-11e7-8071-0ce79f35579b.png" />][Instagram]
- [<img align="left" alt="Prabal Agrawal | Gmail" width="55px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+ [<img align="left" alt="Prabal Agrawal | Gmail" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
  <br />
 
  ### Tools and Technologies:

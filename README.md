@@ -11,7 +11,7 @@
 
  [<img align="center" alt="Prabal Agrawal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="center" alt="Prabal Agrawal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
- [<img align="center" alt="Prabal Agrawal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+ [<img align="center" alt="Prabal Agrawal | Instagram" width="22px" src="https://user-images.githubusercontent.com/829963/27837919-95368730-60e7-11e7-8071-0ce79f35579b.png" />][Instagram]
 
  <br />
 

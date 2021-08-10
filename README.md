@@ -5,6 +5,7 @@
 </div>
 
  ## I'm a Student, EC Engineer, and Gremlin Chaos Engineering Practitioner Certified!!
+ <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me </h2>
 
  - 🌱 I’m currently learning everything 🤣
  - 🥅 2021 Goals: Contribute more to Open Source projects

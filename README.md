@@ -9,8 +9,9 @@
  ### Connect with me:
  <img src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" width="70"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919589685800) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
- [<img align="left" alt="Prabal Agrawal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="Prabal Agrawal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [<img align="center" alt="Prabal Agrawal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="center" alt="Prabal Agrawal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+ [<img align="center" alt="Prabal Agrawal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
  <br />
 
@@ -29,7 +30,7 @@
  [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
  [<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
  [<img align="left" alt="Hadoop" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" />][hadoop]
- [<img align="left" alt="MongoDB" width="42px" src="https://media2.giphy.com/avatars/MongoDB/dr8mLveYEoJc.jpg" />][MongoDB]
+ [<img align="left" alt="MongoDB" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][MongoDB]
  [<img align="left" alt="Shell-Script" width="42px" src="https://www.webinartechnologies.com/wp-content/uploads/2020/10/shell.png" />][Shell-Script]
  <br />
  <br />
@@ -99,6 +100,7 @@ e.g firewall etc](https://www.linkedin.com/posts/prabal-agrawal-4a90111a1_vimald
 <a href="https://github.com/aaditya2801"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 [Medium]: https://medium.com/@prabalagrawal3
+[Instagram]: https://www.instagram.com/iam_khushagrawal/
 [linkedin]: https://www.linkedin.com/in/prabal-agrawal-4a90111a1/
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/

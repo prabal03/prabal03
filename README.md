@@ -29,8 +29,8 @@
  [<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
  [<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
  [<img align="left" alt="Hadoop" width="45px" src="https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" />][hadoop]
- [<img align="left" alt="MongoDB" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][MongoDB]
- [<img align="left" alt="Shell-Script" width="42px" src="https://www.webinartechnologies.com/wp-content/uploads/2020/10/shell.png" />][Shell-Script]
+ [<img align="left" alt="MongoDB" width="43px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][MongoDB]
+ [<img align="left" alt="Shell-Script" width="43px" src="https://www.webinartechnologies.com/wp-content/uploads/2020/10/shell.png" />][Shell-Script]
  <br />
  <br />
 

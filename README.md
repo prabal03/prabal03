@@ -9,10 +9,10 @@
  ### Connect with me:
  <img src="https://c.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" width="70"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919589685800) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
- [<img align="center" alt="Prabal Agrawal | LinkedIn" width="28px" src="https://img.icons8.com/metro/452/linkedin.png" />][linkedin]
- [<img align="center" alt="Prabal Agrawal | Medium" width="28px" src="https://user-images.githubusercontent.com/6636473/31627355-e10142ba-b261-11e7-851a-6c76da975717.png" />][Medium]
- [<img align="center" alt="Prabal Agrawal | Instagram" width="28px" src="https://user-images.githubusercontent.com/829963/27837919-95368730-60e7-11e7-8071-0ce79f35579b.png" />][Instagram]
- [<img align="center" alt="Prabal Agrawal | Gmail" width="55px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+ [<img align="left" alt="Prabal Agrawal | LinkedIn" width="28px" src="https://img.icons8.com/metro/452/linkedin.png" />][linkedin]
+ [<img align="left" alt="Prabal Agrawal | Medium" width="28px" src="https://user-images.githubusercontent.com/6636473/31627355-e10142ba-b261-11e7-851a-6c76da975717.png" />][Medium]
+ [<img align="left" alt="Prabal Agrawal | Instagram" width="28px" src="https://user-images.githubusercontent.com/829963/27837919-95368730-60e7-11e7-8071-0ce79f35579b.png" />][Instagram]
+ [<img align="left" alt="Prabal Agrawal | Gmail" width="55px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
  <br />
 
  ### Tools and Technologies:

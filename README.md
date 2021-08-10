@@ -4,6 +4,7 @@
 
  - 🌱 I’m currently learning everything 🤣
  - 🥅 2021 Goals: Contribute more to Open Source projects
+ - 🛑  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
  - ⚡ Fun fact: I love to read news papers and playing table tennis is my passion 🤩
 
  ### Connect with me:
